@@ -1,3 +1,4 @@
 "Hello"
 add func1
 add func2
+add func3

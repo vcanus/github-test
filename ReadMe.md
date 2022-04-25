@@ -1,2 +1,2 @@
 "Hello"
-
+add func2
